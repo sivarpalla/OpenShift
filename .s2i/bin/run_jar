@@ -1,0 +1,2 @@
+#!/bin/sh
+ java -jar ${QUARKUS_HOME}/application.jar
